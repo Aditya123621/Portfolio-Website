@@ -1,0 +1,20 @@
+[
+  {
+    "institution_pic": "../images/jss-academy-of-technical-education.jpeg",
+    "institute_degree": "B.E. in Information Science & Engineering",
+    "institute_name": "JSS Academy of Technical Education | Bengaluru, Karnataka",
+    "passing_year": "2019-2023 | Completed"
+  },
+  {
+    "institution_pic": "../images/st-karens-high-school.jpg",
+    "institute_degree": " Higher Secondary(Class XII)",
+    "institute_name": "St. Karen's High School | Patna, Bihar",
+    "passing_year": "2019 | Completed"
+  },
+  {
+    "institution_pic": "../images/st-karens-high-school.jpg",
+    "institute_degree": " Secondary(Class X)",
+    "institute_name": "St. Karen's High School | Patna, Bihar",
+    "passing_year": "2017 | Completed"
+  }
+]

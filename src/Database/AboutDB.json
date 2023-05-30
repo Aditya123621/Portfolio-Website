@@ -1,0 +1,10 @@
+{
+  "name": "Aditya Kumar",
+  "degree": ["Frontend Developer", "React Js Developer"],
+  "about_description": "I possess a strong aptitude for frontend development, excelling in various facets of the field. With proficiency in React, Redux, and JavaScript, I am well-equipped to create dynamic and interactive user interfaces. My skills in these technologies allow me to effectively implement complex functionalities while ensuring optimal performance and maintainability. ",
+  "languageKnown": "English | Hindi",
+  "email": "aditya.kr.8593@gmail.com",
+  "phone": "+91 9611088593",
+  "place": "Bengaluru, Karnataka, India",
+  "profile_pic": "../images/myphotoo.jpg"
+}

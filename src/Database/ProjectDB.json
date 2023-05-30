@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "project_name": "Anime Website",
+    "project_image": "/images/anime-website.png",
+    "live_button": "https://anime-website-liart.vercel.app/",
+    "project_info": " The Anime Website is a frontend application built using React. It utilizes the Jinkan API to fetch data for trending, airing, and popular anime sections. Users can explore the latest trends, airing schedules, and highly-rated anime shows through a user-friendly interface."
+  },
+  {
+    "id": 2,
+    "project_name": "Shoppers' Junction",
+    "project_image": "/images/shopper-junction.png",
+    "live_button": "https://shoppers-junction.vercel.app/",
+    "project_info": "The Ecommerce Website is a frontend application created using React and Redux, two popular JavaScript libraries. It provides a seamless online shopping experience with features like product browsing, cart management, etc. The website implements authentication to ensure secure user access, allowing users to create accounts, log in, and manage their personal information. Redux is utilized for efficient state management, enabling smooth communication between different components and ensuring a consistent user experience throughout the website."
+  }
+]
